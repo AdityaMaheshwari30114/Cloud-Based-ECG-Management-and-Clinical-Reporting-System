@@ -1,5 +1,5 @@
 # Cloud-Based ECG Management System
-## Note: This repository contains a sample/demo version of the project created for academic purposes. The actual project code is not included due to confidentiality. For any queries, please contact me at adityamaheshwari.0404@gmail.com .
+#### Note: This repository contains a sample/demo version of the project created for academic purposes. The actual project code is not included due to confidentiality. For any queries, please contact me at adityamaheshwari.0404@gmail.com .
 
 
 ## Project Structure
