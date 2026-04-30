@@ -1,11 +1,11 @@
-# ECG Management System
+# Cloud-Based ECG Management System
+## This repository contains a sample/demo version of the project created for academic purposes. The actual project code is not included due to confidentiality. For any queries, please contact me at adityamaheshwari.0404@gmail.com .
 
-A full-stack application for managing and analyzing ECG (Electrocardiogram) records.
 
 ## Project Structure
 
 ```
-ecg-management-system/
+Cloud-Based-ECG-management-system/
 ├── frontend/          # React-based user interface
 ├── backend/           # ASP.NET Core REST API
 ├── database/          # SQL database schema
@@ -16,9 +16,6 @@ ecg-management-system/
 
 Located in the `frontend/` directory.
 
-### Prerequisites
-- Node.js (v14+)
-- npm or yarn
 
 ### Setup
 ```bash
@@ -69,14 +66,9 @@ GO
 
 ## Future Enhancements
 
-- User authentication
 - Advanced ECG analysis
 - Reporting dashboard
 - Mobile application
-
-## Contributing
-
-Please follow the project structure and coding standards.
 
 ## License
 
